@@ -2,7 +2,9 @@
 
 *内容来源[菜鸟教程](https://www.runoob.com)/ Markdown 教程*
 
-------------------------------------------------------------------------------  
+***
+
+
 ## 1. Markdown 标题  
 Markdown 标题有两种格式。  
 ### 1.1 使用=和-标记一级和二级标题  
@@ -326,4 +328,4 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 >| 单元格 | 单元格 | 单元格 |
 
 ***
-附：markdown转html<https://daringfireball.net/projects/markdown/dingus>
+附：markdown转html    <https://daringfireball.net/projects/markdown/dingus>
